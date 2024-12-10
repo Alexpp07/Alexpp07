@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello World, I'm Alexandre, be very welcome
+
+<table>
+  <a href="https://github.com/Alexpp07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexpp07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpp07&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
 
 <!--
 **Alexpp07/Alexpp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
